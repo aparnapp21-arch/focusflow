@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>FocusFlow</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <!-- AUTH SCREEN -->
+    <div id="authScreen">
+        <h1>FocusFlow 🚀</h1>
+
+        <input type="text" id="username" placeholder="Username">
+        <input type="password" id="password" placeholder="Password">
+
+        <button onclick="register()">Create Account</button>
+        <button onclick="login()">Login</button>
+    </div>
+
+    <!-- TASK SETUP -->
+    <div id="taskScreen" class="hidden">
+        <h2>Create Focus Task</h2>
+        <input type="text" id="taskName" placeholder="Task Name">
+        <input type="number" id="taskTime" placeholder="Time (minutes)">
+        <button onclick="startFocus()">Start Focus</button>
+        <button onclick="logout()">Logout</button>
+    </div>
+
+    <!-- FOCUS MODE -->
+    <div id="focusScreen" class="hidden">
+        <h2 id="focusTaskTitle"></h2>
+        <div id="timer">00:00</div>
+
+        <!-- NEW PROGRESS BAR -->
+        <div class="progress-bar">
+            <div id="progressFill"></div>
+        </div>
+
+        <button onclick="stopSession()">Stop Session</button>
+    </div>
+
+    <!-- REPORT SCREEN -->
+    <div id="reportScreen" class="hidden">
+        <h2>Session Report 📊</h2>
+        <div id="reportContent"></div>
+        <button onclick="newSession()">Start New Session</button>
+        <button onclick="logout()">Logout</button>
+    </div>
+
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

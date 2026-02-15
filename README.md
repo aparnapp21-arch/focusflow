@@ -4,66 +4,66 @@ Basic Details
 Team Name: SoulCelestria
 Team Members
 
-Aparna PP – Saintgits College of Engineering
+*Aparna PP* – Saintgits College of Engineering
 
-Maurin Mathews – Saintgits College of Engineering
+*Maurin Mathews* – Saintgits College of Engineering
 
-Hosted Project Link
+##Hosted Project Link
 
 🔗 https://github.com/aparnapp21-arch/focusflow.git
 
-Project Description
+##Project Description
 
 FocusFlow is a real-time focus and productivity tracker that helps you stay intentional during work or study sessions.
 You choose a session duration—like 30 or 60 minutes—and FocusFlow actively tracks distractions as they happen. At the end of each session, it generates a Focus Score along with insights to help you improve your attention habits over time.
 
-🧩 Problem Statement
+🧩*Problem Statement*
 
 We live in a hyper-connected world ruled by constant notifications, social media feeds, and digital overload.
 Research shows the average human attention span has dropped below that of a goldfish.
 
 This leads to:
 
-Frequent task-switching
+* Frequent task-switching
 
-Reduced efficiency
+* Reduced efficiency
 
-Mental fatigue
+* Mental fatigue
 
-Inability to perform deep, meaningful work
+* Inability to perform deep, meaningful work
 
 FocusFlow addresses this critical challenge by helping users understand and improve their focus, one session at a time.
 
-💡 The Solution
+💡 *The Solution*
 
-FocusFlow works like a personal trainer for your attention.
+-FocusFlow works like a personal trainer for your attention.
 
-It helps you build consistent focus habits through:
+-It helps you build consistent focus habits through:
 
-Real-time distraction tracking
+-Real-time distraction tracking
 
-Insightful feedback
+-Insightful feedback
 
-Visual progress charts
+-Visual progress charts
 
-Session-by-session comparison
+-Session-by-session comparison
 
 A clean and minimal interface designed to reduce cognitive load
 
 The goal is continuous improvement in attention and productivity.
 
-⚙️ Technologies / Components Used
+⚙️ *Technologies / Components Used*
 Software
 
-Languages:
+*Languages*:
 
-HTML5
+- HTML5
 
-CSS3
+- CSS3
 
-JavaScript
+- JavaScript
 
-Tools:
+*Tools*:
 
 VS Code
 
@@ -102,12 +102,18 @@ Simply open the index.html file in your browser.
 🖼️ Project Documentation
 Screenshots
 
-(Add your screenshots here later where the code indicates)
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/e5cb1a21-a9e8-4c35-9e57-b512b22cccf1" />
+<img width="1600" height="1097" alt="image" src="https://github.com/user-attachments/assets/ea2a0cd6-4d3b-458a-926c-d2f68532c7a9" />
+<img width="1504" height="1216" alt="image" src="https://github.com/user-attachments/assets/4b6987c0-cf12-4bc3-ba76-45378fdc17c2" />
+<img width="1407" height="1600" alt="image" src="https://github.com/user-attachments/assets/54d5a2f6-aa20-415f-861a-c4c76c479273" />
+
+
+
 
 Diagrams
 System Architecture
 
-(Add an architecture diagram here if you create one)
+
 A possible architecture:
 
 User interacts with UI (HTML/CSS)
@@ -121,7 +127,7 @@ Charts rendered using JS Canvas
 📹 Project Demo
 Demo Video
 
-(Add your YouTube or Drive link here)
+https://drive.google.com/file/d/1kzhr6SuT-qMXS1WRR-_M15z7lbV7O73z/view?usp=drivesdk
 
 🤖 AI Tools Used (Optional Section)
 
